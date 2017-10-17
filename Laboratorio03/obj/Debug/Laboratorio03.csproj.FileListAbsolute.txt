@@ -1,0 +1,6 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\Laboratorio03\Laboratorio03\bin\Debug\Laboratorio03.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\Laboratorio03\Laboratorio03\bin\Debug\Laboratorio03.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\Laboratorio03\Laboratorio03\bin\Debug\Laboratorio03.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\Laboratorio03\Laboratorio03\obj\Debug\Laboratorio03.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2015\Projects\Laboratorio03\Laboratorio03\obj\Debug\Laboratorio03.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\Laboratorio03\Laboratorio03\obj\Debug\Laboratorio03.pdb
